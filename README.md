@@ -1,4 +1,4 @@
-# Life Expectancy Analysis Project
+# Living Longer in a Changing World: A Data-Driven Analysis of Life Expectancy Trends
 
 This project investigates life expectancy trends across the globe using data analysis techniques in R. It focuses on understanding how variables such as income level, geographic region, and time influence life expectancy outcomes. By combining statistical summaries and visualizations, the analysis highlights disparities between countries and regions, shedding light on inequalities in global health.
 
